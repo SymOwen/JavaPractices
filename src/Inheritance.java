@@ -1,7 +1,9 @@
+import animals.Animal;
+import animals.Dog;
+
 public class Inheritance {
     public static void main(String[] args) {
         test1();
-
     }
 
     private static void test1() {
